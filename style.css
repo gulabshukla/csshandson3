@@ -1,0 +1,211 @@
+.box1{    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 350px;
+    height: 150px;
+    color: brown;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    background-color: ;
+    margin-left: 500px;
+    border-width: 8px;
+    text-shadow: brown 1px 1px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+    border-image: initial;
+  }
+  
+  .box2 {
+    width: 98%;
+    height: 700px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+    border-image: initial;
+  }
+  
+  .left-up {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    text-shadow: maroon 2px 1px;
+    line-height: 2;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    border-radius: 8px;
+  }
+  
+  .right-up {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-left: 78%;
+    margin-top: -20.7%;
+    background-color: white;
+    background-image: url(./pexels-edward-eyer-687824.jpg
+     );
+    background-size: 90%;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .left-low {
+    width: 250px;
+    height: 250px;
+    margin-top: 5%;
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    text-shadow: maroon 2px 1px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+  }
+  
+  .right-low {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-left: 78%;
+    margin-top: -22%;
+    font-weight: bolder;
+    font-size: 30px;
+    text-shadow: maroon 2px 1px;
+    text-align: center;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    border-radius: 10px;
+  }
+  
+  .rating {
+    font-weight: normal;
+    font-size: 15px;
+    text-shadow: maroon 1px 1px;
+    text-align: center;
+  }
+  
+  .submit {
+    font-weight: normal;
+    font-size: 15px;
+    text-shadow: maroon 1px 1px;
+    text-align: center;
+  }
+  
+  .submitted {
+    width: 100px;
+    height: 15px;
+    background-color: red;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  .mid {
+    width: 500px;
+    height: 100px;
+    position: fixed;
+    background: yellowgreen;
+    margin-top: -30%;
+    margin-left: 30%;
+    border-width: 8px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    border-radius: 10px;
+  }
+  
+  .left-text {
+    position: relative;
+    font-style: italic;
+    font-size: 25px;
+    color: maroon;
+    font-weight: bolder;
+    margin-top: 25px;
+  }
+  
+  .right-text {
+    position: absolute;
+    font-style: italic;
+    font-size: 25px;
+    color: maroon;
+    font-weight: bold;
+    margin-left: 60%;
+    margin-top: -15%;
+  }
+  
+  .last-box {
+    width: 750px;
+    height: 650px;
+    background-color:green ;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: purple;
+    border-image: initial;
+  }
+  
+  .heading {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .fruits-box {
+    width: 350px;
+    height: 250px;
+    margin-left: 20px;
+    background-color: rgb(230, 209, 21);
+  }
+  
+  .fruit {
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .fruits-name {
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    font-weight: 600;
+  }
+  
+  .veg-box {
+    width: 350px;
+    height: 250px;
+    margin-top: -280px;
+    margin-left: 400px;
+    background-color: rgb(228, 208, 22);
+  }
+  
+  .vegetables {
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .veg-name {
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    font-weight: 600;
+  }
